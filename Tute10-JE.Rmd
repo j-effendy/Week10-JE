@@ -1,0 +1,15 @@
+---
+title: "Tute10-JE"
+author: "Jimmy Effendy"
+date: "28/05/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r library}
+library(dplyr)
+library(ggplot2)
+```
